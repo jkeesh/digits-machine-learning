@@ -1,0 +1,15 @@
+workon mldemo
+
+mkvirtualenv mldemo
+pip install scikit-learn
+pip install matplotlib
+
+
+
+
+SET UP ENVIRONMENT
+
+
+display_digit.py
+display_digit_table.py
+display_digit_table_click.py

@@ -1,7 +1,12 @@
+# Digit recognition demo
 
 Download files.
 
-mkvirtualenv digits
+    mkvirtualenv digits
+    pip install -r reqs.txt
+
+========
+
 pip install scikit-learn
 pip install matplotlib
 

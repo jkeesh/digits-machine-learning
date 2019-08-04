@@ -1,8 +1,9 @@
+# Digit recognition demo
 
 Download files.
 
-mkvirtualenv digits
-pip install -r reqs.txt
+    mkvirtualenv digits
+    pip install -r reqs.txt
 
 ========
 

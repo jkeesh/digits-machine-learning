@@ -1,11 +1,17 @@
 # Digit recognition demo
 
+## Quickstart
+
 Download files.
 
     mkvirtualenv digits
     pip install -r reqs.txt
 
-========
+Run a program
+
+    python display_digit.py
+
+## Helpful python commands
 
 Installing dependencies individually
 

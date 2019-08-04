@@ -16,3 +16,11 @@ workon digits
 python display_digit.py
 python display_digit_table.py
 python display_digit_table_click.py
+
+
+
+Other information
+
+To install file to convert image to grayscale matrix:
+
+    pip install opencv-python

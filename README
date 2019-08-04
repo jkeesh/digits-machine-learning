@@ -1,15 +1,13 @@
-workon mldemo
 
-mkvirtualenv mldemo
+Download files.
+
+mkvirtualenv digits
 pip install scikit-learn
 pip install matplotlib
 
+To return:
+workon digits
 
-
-
-SET UP ENVIRONMENT
-
-
-display_digit.py
-display_digit_table.py
-display_digit_table_click.py
+python display_digit.py
+python display_digit_table.py
+python display_digit_table_click.py

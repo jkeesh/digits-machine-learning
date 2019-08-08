@@ -36,6 +36,15 @@ Running programs
     Guess the digit for an 8x8 jpeg image
     python image_to_prediction.py
 
+    Convert an image to an 8x8 array
+    python convert_image.py
+
+    Predict a drawn digit from entering the array
+    python predict_drawn_digit.py
+
+    Predict a single digit in the dataset
+    python predict_single_digit.py
+
 
 # Try your own drawn digit
 
@@ -43,9 +52,7 @@ Running programs
 - Crop it to a square, and download it
 - Resize it in finder to 8x8
 - Move it into the right folder 
-- Run convert_image.py file with your image
-- Copy the resulting array into predict_drawn_digit.py
-- Run predict_drawn_digit.py
+- Run image_to_prediction.py file with your image (update image file name)
 
 ## Scikit information
 

@@ -33,6 +33,9 @@ Running programs
     Display a table of digits from the training data, and click to see more
     python display_digit_table_click.py
 
+    Guess the digit for an 8x8 jpeg image
+    python image_to_prediction.py
+
 
 # Try your own drawn digit
 
